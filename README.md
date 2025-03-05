@@ -1,4 +1,3 @@
 # Deep-Learning
 
-This is nvidia Course
-Ill update it soon
+The Readme is Going to be Updated very soon..
